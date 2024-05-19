@@ -12,13 +12,30 @@
     {
         "id":2,
         "name":"football"
-    }]
+    }
+]
 },
     {
 "id":2,
 "name":"zack",
-"photos":"/photos/1.jpg"
+"photos":"/photos/1.jpg",
+"coursres":[
+    {
+    "id":1,
+    "name":"basketball"
+},
+{
+    "id":2,
+    "name":"football"
+}
+]
 
+},
+{
+    "id":3,
+    "name":"charles",
+    "photos":"/photos/1.jpg",
+    "coursres":null
 }
 
 
